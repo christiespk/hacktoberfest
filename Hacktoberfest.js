@@ -1,1 +1,2 @@
-I gots some learning to do =p
+alert("BOO!");
+confirm("Did I scare you?");
